@@ -1,8 +1,8 @@
-# Deep Reinforcement Learning for Continuous Control
+# Deep Reinforcement Learning for Multi-Agent Environments
 
 Train agents to hit a ball back and forth in the Tennis environment from Unity ML-Agents using a multi-step variant of deep deterministic policy gradients (DDPG). 
 
-Watch a full video of the agent here: [https://youtu.be/RLc08qHuOp4](https://youtu.be/RLc08qHuOp4)
+Watch a full video of the trained agents here: [https://youtu.be/RLc08qHuOp4](https://youtu.be/RLc08qHuOp4)
 
 ![GIF animation of trained agent in Reacher environment](assets/tennis.gif)
 
